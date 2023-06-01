@@ -1,3 +1,6 @@
+# About the project
+React Shop is a simple project where I tried to build a shopping cart using the 'dummyJSON' API to get the product data. Unfortunately I ran into an issue where I wasn't able to pass a function to the cart page so the user could add/remove to/from the quantity. Pulling the data from the API, displaying the products, and adding a product to the basket with a default quantity of 1 all works. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
